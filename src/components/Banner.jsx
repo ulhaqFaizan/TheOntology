@@ -5,11 +5,27 @@ import Banner from './images/Banner.png';
 export default function BoxSx() {
   return (
       <Box
-        sx={{
-          // height: 900,
-        }}
+      sx={{
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center', // For vertical alignment, if needed
+        height: '100%',       // Parent height for vertical alignment
+      }}
       >
-        <img src={Banner} alt='The Ontology Makeup Brushes' style={{ maxWidth: '100%' }} />      
+        <Box
+          component="img"
+          src={Banner}
+          alt="The Ontology Makeup Brushes"
+          sx={{
+            width: {
+              xs: '100%', // 100% width for extra-small screens
+              sm: '80%',  // 80% width for small screens
+              md: '50%',  // 60% width for medium screens
+            },
+            height: 'auto', // Maintain aspect ratio
+          }}
+          />
       </Box>
+      
   );
 }
