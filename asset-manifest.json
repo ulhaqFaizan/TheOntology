@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TheOntology/static/css/main.9656c386.css",
+    "main.js": "/TheOntology/static/js/main.fd1a987c.js",
+    "static/js/453.358bb64e.chunk.js": "/TheOntology/static/js/453.358bb64e.chunk.js",
+    "static/media/Banner.png": "/TheOntology/static/media/Banner.b23342650b2523db5100.png",
+    "static/media/FaceBrushes.png": "/TheOntology/static/media/FaceBrushes.05f6ec54fd13b92b08e6.png",
+    "static/media/lifeStyle1.jpeg": "/TheOntology/static/media/lifeStyle1.6c5753140e68e26b279c.jpeg",
+    "static/media/EyeBrushes.png": "/TheOntology/static/media/EyeBrushes.a5abe05d8ed5e43d5d4f.png",
+    "static/media/lifeStyle2.jpeg": "/TheOntology/static/media/lifeStyle2.53ef6b7b5594deb88d2c.jpeg",
+    "static/media/Contour.png": "/TheOntology/static/media/Contour.a647495767a8db3aba6a.png",
+    "static/media/Highlighter.png": "/TheOntology/static/media/Highlighter.8d80500bc754215e2a92.png",
+    "static/media/EyeBrushes1.png": "/TheOntology/static/media/EyeBrushes1.6fba0dce469451e6aea7.png",
+    "static/media/goodly-regular.otf": "/TheOntology/static/media/goodly-regular.5cd10f6d4b3f4dc6e98b.otf",
+    "static/media/logo.png": "/TheOntology/static/media/logo.ac0807c03e38f42ac2cb.png",
+    "index.html": "/TheOntology/index.html",
+    "main.9656c386.css.map": "/TheOntology/static/css/main.9656c386.css.map",
+    "main.fd1a987c.js.map": "/TheOntology/static/js/main.fd1a987c.js.map",
+    "453.358bb64e.chunk.js.map": "/TheOntology/static/js/453.358bb64e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9656c386.css",
+    "static/js/main.fd1a987c.js"
+  ]
+}
